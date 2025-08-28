@@ -1,0 +1,29 @@
+# Voice Assistant Template - Cursor Rules
+
+## Project Context
+This is a React Native voice assistant template that runs on iOS, Android, and web platforms. Primary debugging will be through browser.
+
+## Coding Guidelines
+- Write the minimum possible code to get the job done efficiently. Avoid unnecessary boilerplate or abstraction.
+- When in doubt, ask the user for clarification prior to writing significant amounts of code.
+- Summarize and get approval for major architectural decisions, especially when bringing in additional frameworks or libraries.
+
+## Development Preferences
+- Framework: React Native
+- Target Platforms: iOS, Android, Web
+- Primary Debug Environment: Browser
+- Code Style: Use 4-space indentation
+
+## Instructions for AI Assistant
+1. Always reference the project_description.md file for the latest project context and guidelines
+2. Follow the principle of minimal viable code - don't over-engineer solutions
+3. Before implementing significant features or architectural changes, summarize the approach and ask for user confirmation
+4. Focus on cross-platform compatibility for React Native
+
+## File Structure Expectations
+- Keep code organized and minimal
+- Avoid creating unnecessary abstraction layers
+- Follow React Native best practices for cross-platform development
+
+## Before Major Changes
+Always check project_description.md for any updates to requirements or guidelines, and confirm architectural decisions with the user before implementation. 
