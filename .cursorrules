@@ -27,3 +27,12 @@ This is a React Native voice assistant template that runs on iOS, Android, and w
 
 ## Before Major Changes
 Always check project_description.md for any updates to requirements or guidelines, and confirm architectural decisions with the user before implementation. 
+
+
+# Project Roadmap
+- for the moment, the app will only be run locally. 
+- this will be a single-page app
+- currently, I just want there to be a microphone icon that you can click on to talk.
+- the app will perform speech-to-text, display the text, extract the information according to a prompt provided, then display that extracted information. 
+
+
